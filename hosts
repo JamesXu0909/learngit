@@ -1,0 +1,19 @@
+127.0.0.1	localhost
+# The following lines are desirable for IPv6 capable hosts
+::1	ip6-localhost	ip6-loopback
+fe00::0	ip6-localnet
+ff00::0	ip6-mcastprefix
+ff02::1	ip6-allnodes
+ff02::2	ip6-allrouters
+10.30.8.193	proxy-tcp
+127.0.1.1	Aliyun
+10.19.100.108   jenkins.techzgzb.cn
+81.69.195.111	sit-dxz
+106.54.195.154	prd01-dxz
+81.69.171.79	prd02-dxz
+
+10.30.2.123	iZuf62rrk9l470815g5ov7Z	iZuf62rrk9l470815g5ov7Z
+10.30.2.123	devops-rancher	devops-rancher
+10.19.100.165   dev-registry.cn-shanghai.cr.aliyuncs.com  dev-registry-vpc.cn-shanghai.cr.aliyuncs.com
+127.0.0.1       beta-web.zgzb.com
+192.168.100.41  lb.kubesphere.local
