@@ -13,4 +13,13 @@ add master branch
 add master
 add ops_dev
 add dev
+<<<<<<< HEAD
 
+=======
+<<<<<<< HEAD
+d
+e
+=======
+
+>>>>>>> 64a5e5a (fix bug 101)
+>>>>>>> dev
