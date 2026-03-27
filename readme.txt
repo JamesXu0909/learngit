@@ -8,10 +8,14 @@ add third
 dfasdfasdfasdfasdfasdfasd
 add fouth
 git hello 
-git 123456
+git 12345
 add master branch
 add master
 add ops_dev
 add dev
+<<<<<<< HEAD
 d
 e
+=======
+
+>>>>>>> 64a5e5a (fix bug 101)
